@@ -1,0 +1,17 @@
+export const darkTheme = {
+  accent: "#e74c3c",
+  primary: "#23272f",
+  secondary: "#ecf0f1",
+  gallowsWood: "#60523b",
+  gallowsMetal: "#888c91",
+  rope: "#cca36a",
+  figureSkin: "#dedac9",
+  letter: "#ecf0f1",
+  guessed: "#7f8c8d",
+  background: "#2c3e50",
+  letterButton: "#2c3e50",
+  letterActive: "#ecf0f1",
+  letterWrong: "#e74c3c",
+  lightning: "#f2faff",
+  wind: "#9cd6fc",
+};
